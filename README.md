@@ -8,7 +8,7 @@
 
 - 🎓 Soy **estudiante de Ingeniería de Sistemas e Informática** en la **[Universidad Nacional de Moquegua](https://unam.edu.pe/)**.  
 - 💻 Apasionado por el **desarrollo de software**, especialmente en **aplicaciones web y móviles**.  
-- 🛠️ Con experiencia en `Java`, `React`, `Node.js`, `Express` y `MySQL`.  
+- 🛠️ Con experiencia en `Java`, `React`, `Node.js`, `Express`, `MySQL` y `MongoDB` .  
 - 🤖 Interesado en aprender más sobre **Inteligencia Artificial**, en áreas como **Deep Learning** y **Visión Computacional**.  
 - 🚀 Siempre aprendiendo y explorando nuevas tecnologías en **backend**, **IoT** y **desarrollo móvil**.  
 - 💼 Actualmente en busca de **prácticas preprofesionales** para aplicar mis conocimientos en proyectos reales.  
