@@ -12,7 +12,7 @@
 - 🤖 Interesado en aprender más sobre **Inteligencia Artificial**, en áreas como **Deep Learning** y **Visión Computacional**.  
 - 🚀 Siempre aprendiendo y explorando nuevas tecnologías en **backend**, **IoT** y **desarrollo móvil**.  
 - 💼 Actualmente en busca de **prácticas preprofesionales** para aplicar mis conocimientos en proyectos reales.  
-- 🌐 Puedes visitar mi [**Portafolio Web**](#) (creado con Astro 🚀).  
+- 🌐 Puedes visitar mi [**Portafolio Web**](https://portfolio-seven-nu-v9oynjncmm.vercel.app/) (creado con Astro 🚀).  
 
 <br>
 
